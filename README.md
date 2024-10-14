@@ -35,4 +35,4 @@ Se deseja contribuir com melhorias ou corrigir possíveis problemas, sinta-se à
 Esse prejeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Para acessar o projeto click no link
-app-recipes-lzaznjeqc-dantas-ferreira-crispims-projects.vercel.app
+https://app-recipes-4zbes9k26-dantas-ferreira-crispims-projects.vercel.app/
