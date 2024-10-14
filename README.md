@@ -9,8 +9,9 @@ App desenvolvido para aquelas pessoa que estão afim de perder peso e comer uma 
 
 
 ## Funcionalidade
- - esse app foi desenvolvido para pessoa que queiram buscar por alimentos saudáveis e deliciosos
+ - esse app foi desenvolvido para pessoa que queiram buscar por alimentos saudáveis e deliciosos ultilizando a API gratuíta da THEMEALDB.
  - com esse app você pode digitar a comida preferida que ele vai retorna um prato delicioso e saudavel
+ - grande novidade! no final de cada prato selecionado , temos um link de um video onde leva o usuário  paso a passo para que seja feito com a maior perfeição.
 ## Pré-Requisitos
 Não há pré-requisitos especiais para visualizar este projeto além de um navegador web moderno.
 
