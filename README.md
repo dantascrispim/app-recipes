@@ -17,7 +17,6 @@ Não há pré-requisitos especiais para visualizar este projeto além de um nave
 ## Como Contribuir
 Se deseja contribuir com melhorias ou corrigir possíveis problemas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-
 ## Tecnologias Ultilizadas
 
 HTML5, CSS3, JAVASCRIPT, VERCEL, GIT E GITHUB
